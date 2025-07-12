@@ -32,7 +32,7 @@ Hi there! I'm pooja rachakonda, a curious learner and passionate beginner diving
 
 ### 📬 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-rachakonda)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-rachakonda-36a28b305/)    
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojarachakonda9@gmail.com)
 
 
